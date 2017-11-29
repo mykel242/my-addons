@@ -1,0 +1,12 @@
+------------------------------------------------------------------------
+r364 | Zensunim | 2017-11-18 04:09:35 -0600 (Sat, 18 Nov 2017) | 2 lines
+Changed paths:
+   M /trunk/GTFO.lua
+   M /trunk/GTFO.toc
+   M /trunk/GTFO_Fail_Classic.lua
+   M /trunk/ReadMe.txt
+
+4.43.7
+* Added Classic spells for Azeroth (world)
+------------------------------------------------------------------------
+

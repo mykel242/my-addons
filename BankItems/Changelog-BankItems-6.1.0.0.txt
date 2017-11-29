@@ -1,0 +1,26 @@
+------------------------------------------------------------------------
+r227 | nbluewiz | 2015-02-26 02:13:29 +0000 (Thu, 26 Feb 2015) | 1 line
+Changed paths:
+   A /tags/6.1.0.0 (from /trunk:226)
+
+tag as 6.1.0.0
+------------------------------------------------------------------------
+r226 | burstroc | 2015-02-26 01:02:47 +0000 (Thu, 26 Feb 2015) | 2 lines
+Changed paths:
+   M /trunk/BankItems.toc
+
+Bump TOC version
+Tag as 6.1.0.0
+------------------------------------------------------------------------
+r225 | burstroc | 2015-02-09 03:46:51 +0000 (Mon, 09 Feb 2015) | 1 line
+Changed paths:
+   M /trunk/BankItems.lua
+
+Fixed an error with search results being prefixed incorrectly with "Equipped:" for items not equipped.
+------------------------------------------------------------------------
+r224 | nbluewiz | 2015-01-15 00:44:40 +0000 (Thu, 15 Jan 2015) | 1 line
+Changed paths:
+   M /trunk/BankItems.lua
+
+Fix global leak.
+------------------------------------------------------------------------
